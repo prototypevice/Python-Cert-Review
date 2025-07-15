@@ -4,7 +4,8 @@
 ''' Evaluate the following Python arithmetic expression:
 (3*(1+2)**2 - (2**2)*3) '''
 
-''' Explanation: Values inside the parenthesis gets evaluated first, then exponents, then basic MDAS. '''
+''' Explanation: Values inside the parenthesis gets evaluated first, then exponents, then basic MDAS. 
+                 Basically, just know the precedence of operators.'''
 
 # first_step = 1+2
 # second_step = 2**2
